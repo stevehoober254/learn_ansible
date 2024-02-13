@@ -4,6 +4,8 @@ This repository is designed to help you learn about Ansible, a powerful automati
 
 I share my knowledge and experience with Ansible to help you get started with automation and configuration management. Whether you're new to Ansible or looking to expand your skills, this repository has something for everyone.
 
+![Ansible Cover](https://assets-global.website-files.com/610bb663a35dd3364ddbf08c/630899741684b330c2e6829a_infrastructure-ansible-heasder-min.png)
+
 ## Table of Contents
 
 1. [Ansible Installation](installation)
@@ -33,7 +35,7 @@ I share my knowledge and experience with Ansible to help you get started with au
 
 ## 1. Introduction to Ansible
 
-This section provides an overview of Ansible and its key features.
+Ansible is a suite of software tools that enables infrastructure as code. It is open-source and the suite includes software provisioning, configuration management, and application deployment functionality.
 
 ## 2. Ansible Installation
 
