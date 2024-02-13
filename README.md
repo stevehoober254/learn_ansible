@@ -1,32 +1,33 @@
 # Learning Ansible
 
-Welcome to the Learning Ansible repository! This repository is designed to help you learn about Ansible, a powerful automation tool for managing IT infrastructure.
+This repository is designed to help you learn about Ansible, a powerful automation tool for managing IT infrastructure.
+
+I share my knowledge and experience with Ansible to help you get started with automation and configuration management. Whether you're new to Ansible or looking to expand your skills, this repository has something for everyone.
 
 ## Table of Contents
 
-1. [Introduction to Ansible](intro-to-ansible)
-2. [Ansible Installation](ansible-installation)
-3. [Ansible Basics](ansible-basics)
+1. [Ansible Installation](installation)
+2. [Ansible Basics](basics)
    - [Inventory](ansible-basics/inventory)
    - [Playbooks](ansible-basics/playbooks)
    - [Roles](ansible-basics/roles)
    - [Variables](ansible-basics/variables)
    - [Modules](ansible-basics/modules)
-4. [Advanced Ansible](advanced-ansible)
+3. [Advanced Ansible](advanced)
    - [Dynamic Inventory](advanced-ansible/dynamic-inventory)
    - [Handlers](advanced-ansible/handlers)
    - [Conditionals](advanced-ansible/conditionals)
    - [Loops](advanced-ansible/loops)
    - [Templates](advanced-ansible/templates)
-5. [Ansible Tower](ansible-tower)
+4. [Ansible Tower](tower)
    - [Installation](ansible-tower/installation)
    - [Configuration](ansible-tower/configuration)
    - [Usage](ansible-tower/usage)
-6. [Best Practices](best-practices)
+5. [Best Practices](best-practices)
    - [Security](best-practices/security)
    - [Performance](best-practices/performance)
    - [Scalability](best-practices/scalability)
-7. [Troubleshooting](troubleshooting)
+6. [Troubleshooting](troubleshooting)
    - [Common Issues](troubleshooting/common-issues)
    - [Debugging](troubleshooting/debugging)
 
