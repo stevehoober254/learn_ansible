@@ -4,7 +4,7 @@ This repository is designed to help you learn about Ansible, a powerful automati
 
 I share my knowledge and experience with Ansible to help you get started with automation and configuration management. Whether you're new to Ansible or looking to expand your skills, this repository has something for everyone.
 
-![Ansible Cover](https://assets-global.website-files.com/610bb663a35dd3364ddbf08c/630899741684b330c2e6829a_infrastructure-ansible-heasder-min.png)
+![Ansible Cover](https://www.linkedin.com/in/stephen-gashoka-software-engineer)
 
 ## Table of Contents
 
